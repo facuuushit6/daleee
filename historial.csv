@@ -1,0 +1,529 @@
+timestamp,hora,min,evento,quietud_min,Q10,Q30,M4,M6,A,razon,msg
+2025-10-24T13:02,13,2,still,1,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:02,still,,0
+2025-10-24T13:03,13,3,move,0,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:03,move,,0
+2025-10-24T13:04,13,4,still,1,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:04,still,,0
+2025-10-24T13:05,13,5,still,2,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:05,still,,0
+2025-10-24T13:06,13,6,still,3,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:06,still,,0
+2025-10-24T13:07,13,7,still,4,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:07,still,,0
+2025-10-24T13:08,13,8,still,5,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:08,still,,0
+2025-10-24T13:09,13,9,still,6,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:09,still,,0
+2025-10-24T13:10,13,10,still,7,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:10,still,,0
+2025-10-24T13:11,13,11,still,8,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:11,still,,0
+2025-10-24T13:12,13,12,still,9,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:12,still,,0
+2025-10-24T13:13,13,13,still,10,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 13:13,still,,0
+2025-10-24T13:14,13,14,still,11,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 13:14,still,,0
+2025-10-24T13:15,13,15,still,12,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 13:15,still,,0
+2025-10-24T13:16,13,16,still,13,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 13:16,still,,0
+2025-10-24T13:17,13,17,still,14,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 13:17,still,,0
+2025-10-24T13:18,13,18,still,15,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 13:18,still,,0
+2025-10-24T13:19,13,19,still,16,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 13:19,still,,0
+2025-10-24T13:20,13,20,still,17,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 13:20,still,,0
+2025-10-24T13:21,13,21,still,18,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 13:21,still,,0
+2025-10-24T13:22,13,22,move,0,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 13:22,move,,0
+2025-10-24T03:50,3,50,still,1,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:50,still,,0
+2025-10-24T03:51,3,51,still,2,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:51,still,,0
+2025-10-24T03:52,3,52,still,3,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:52,still,,0
+2025-10-24T03:53,3,53,still,4,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:53,still,,0
+2025-10-24T03:54,3,54,still,5,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:54,still,,0
+2025-10-24T03:55,3,55,still,6,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:55,still,,0
+2025-10-24T03:56,3,56,still,7,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:56,still,,0
+2025-10-24T03:57,3,57,still,8,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:57,still,,0
+2025-10-24T03:58,3,58,still,9,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:58,still,,0
+2025-10-24T03:50,3,50,still,1,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:50,still,,0
+2025-10-24T03:51,3,51,still,2,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:51,still,,0
+2025-10-24T03:52,3,52,still,3,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:52,still,,0
+2025-10-24T03:53,3,53,still,4,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:53,still,,0
+2025-10-24T03:54,3,54,still,5,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:54,still,,0
+2025-10-24T03:55,3,55,still,6,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:55,still,,0
+2025-10-24T03:56,3,56,still,7,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:56,still,,0
+2025-10-24T03:57,3,57,still,8,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:57,still,,0
+2025-10-24T03:58,3,58,still,9,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:58,still,,0
+2025-10-24T03:59,3,59,still,10,1,0,0,0,1,Q10&~M4,🔔 ALARMA — Quietud ≥ 10 min antes de las 4:00
+2025-10-24 03:59,still,,0
+2025-10-24T04:00,4,0,still,11,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 04:00,still,,0
+2025-10-24T04:01,4,1,still,12,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 04:01,still,,0
+2025-10-24T05:00,5,0,still,13,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:00,still,,0
+2025-10-24T05:01,5,1,still,14,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:01,still,,0
+2025-10-24T05:02,5,2,still,15,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:02,still,,0
+2025-10-24T05:03,5,3,still,16,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:03,still,,0
+2025-10-24T05:04,5,4,still,17,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:04,still,,0
+2025-10-24T05:05,5,5,still,18,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:05,still,,0
+2025-10-24T05:06,5,6,still,19,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:06,still,,0
+2025-10-24T05:07,5,7,still,20,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:07,still,,0
+2025-10-24T05:08,5,8,still,21,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:08,still,,0
+2025-10-24T05:09,5,9,still,22,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:09,still,,0
+2025-10-24T05:10,5,10,still,23,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:10,still,,0
+2025-10-24T05:11,5,11,still,24,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:11,still,,0
+2025-10-24T05:12,5,12,still,25,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:12,still,,0
+2025-10-24T05:13,5,13,still,26,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:13,still,,0
+2025-10-24T05:14,5,14,still,27,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:14,still,,0
+2025-10-24T05:15,5,15,still,28,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:15,still,,0
+2025-10-24T05:16,5,16,still,29,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:16,still,,0
+2025-10-24T05:17,5,17,still,30,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:17,still,,0
+2025-10-24T05:18,5,18,still,31,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:18,still,,0
+2025-10-24T05:19,5,19,still,32,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:19,still,,0
+2025-10-24T05:20,5,20,still,33,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:20,still,,0
+2025-10-24T05:21,5,21,still,34,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:21,still,,0
+2025-10-24T05:22,5,22,still,35,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:22,still,,0
+2025-10-24T05:23,5,23,still,36,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:23,still,,0
+2025-10-24T05:24,5,24,still,37,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:24,still,,0
+2025-10-24T05:25,5,25,still,38,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:25,still,,0
+2025-10-24T05:26,5,26,still,39,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:26,still,,0
+2025-10-24T05:27,5,27,still,40,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:27,still,,0
+2025-10-24T05:28,5,28,still,41,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:28,still,,0
+2025-10-24T05:29,5,29,still,42,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:29,still,,0
+2025-10-24T05:30,5,30,still,43,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:30,still,,0
+2025-10-24T05:31,5,31,still,44,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:31,still,,0
+2025-10-24T05:32,5,32,still,45,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:32,still,,0
+2025-10-24T05:33,5,33,still,46,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:33,still,,0
+2025-10-24T05:34,5,34,still,47,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:34,still,,0
+2025-10-24T03:50,3,50,still,1,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:50,still,,0
+2025-10-24T03:51,3,51,still,2,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:51,still,,0
+2025-10-24T03:52,3,52,still,3,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:52,still,,0
+2025-10-24T03:53,3,53,still,4,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:53,still,,0
+2025-10-24T03:54,3,54,still,5,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:54,still,,0
+2025-10-24T03:55,3,55,still,6,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:55,still,,0
+2025-10-24T03:56,3,56,still,7,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:56,still,,0
+2025-10-24T03:57,3,57,still,8,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:57,still,,0
+2025-10-24T03:58,3,58,still,9,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:58,still,,0
+2025-10-24T03:59,3,59,still,10,1,0,0,0,1,Q10&~M4,🔔 ALARMA — Quietud ≥ 10 min antes de las 4:00
+2025-10-24 03:59,still,,0
+2025-10-24T04:00,4,0,still,11,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 04:00,still,,0
+2025-10-24T04:01,4,1,still,12,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 04:01,still,,0
+2025-10-24T06:10,6,10,still,1,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:10,still,,0
+2025-10-24T06:11,6,11,still,2,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:11,still,,0
+2025-10-24T06:12,6,12,still,3,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:12,still,,0
+2025-10-24T06:13,6,13,still,4,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:13,still,,0
+2025-10-24T06:14,6,14,still,5,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:14,still,,0
+2025-10-24T06:15,6,15,still,6,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:15,still,,0
+2025-10-24T06:16,6,16,still,7,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:16,still,,0
+2025-10-24T06:17,6,17,still,8,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:17,still,,0
+2025-10-24T06:18,6,18,still,9,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:18,still,,0
+2025-10-24T06:19,6,19,still,10,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:19,still,,0
+2025-10-24T06:20,6,20,still,11,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:20,still,,0
+2025-10-24T06:21,6,21,still,12,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:21,still,,0
+2025-10-24T06:22,6,22,still,13,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:22,still,,0
+2025-10-24T06:23,6,23,still,14,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:23,still,,0
+2025-10-24T06:24,6,24,still,15,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:24,still,,0
+2025-10-24T06:25,6,25,still,16,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:25,still,,0
+2025-10-24T06:26,6,26,still,17,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:26,still,,0
+2025-10-24T06:27,6,27,still,18,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:27,still,,0
+2025-10-24T06:28,6,28,still,19,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:28,still,,0
+2025-10-24T06:29,6,29,still,20,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:29,still,,0
+2025-10-24T06:30,6,30,still,21,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:30,still,,0
+2025-10-24T06:31,6,31,still,22,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:31,still,,0
+2025-10-24T06:32,6,32,still,23,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:32,still,,0
+2025-10-24T06:33,6,33,still,24,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:33,still,,0
+2025-10-24T06:34,6,34,still,25,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:34,still,,0
+2025-10-24T06:35,6,35,still,26,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:35,still,,0
+2025-10-24T06:36,6,36,still,27,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:36,still,,0
+2025-10-24T06:37,6,37,still,28,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:37,still,,0
+2025-10-24T06:38,6,38,still,29,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:38,still,,0
+2025-10-24T06:39,6,39,still,30,1,1,1,1,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 06:39,still,,0
+2025-10-24T06:40,6,40,still,31,1,1,1,1,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 06:40,still,,0
+2025-10-24T06:10,6,10,still,1,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:10,still,,0
+2025-10-24T06:11,6,11,still,2,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:11,still,,0
+2025-10-24T06:12,6,12,still,3,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:12,still,,0
+2025-10-24T06:13,6,13,still,4,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:13,still,,0
+2025-10-24T06:14,6,14,still,5,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:14,still,,0
+2025-10-24T06:15,6,15,still,6,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:15,still,,0
+2025-10-24T06:16,6,16,still,7,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:16,still,,0
+2025-10-24T06:17,6,17,still,8,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:17,still,,0
+2025-10-24T06:18,6,18,still,9,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:18,still,,0
+2025-10-24T06:19,6,19,still,10,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:19,still,,0
+2025-10-24T06:20,6,20,still,11,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:20,still,,0
+2025-10-24T06:21,6,21,still,12,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:21,still,,0
+2025-10-24T06:22,6,22,still,13,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:22,still,,0
+2025-10-24T06:23,6,23,still,14,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:23,still,,0
+2025-10-24T06:24,6,24,still,15,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:24,still,,0
+2025-10-24T06:25,6,25,still,16,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:25,still,,0
+2025-10-24T06:26,6,26,still,17,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:26,still,,0
+2025-10-24T06:27,6,27,still,18,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:27,still,,0
+2025-10-24T06:28,6,28,still,19,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:28,still,,0
+2025-10-24T06:29,6,29,still,20,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:29,still,,0
+2025-10-24T06:30,6,30,still,21,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:30,still,,0
+2025-10-24T06:31,6,31,still,22,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:31,still,,0
+2025-10-24T06:32,6,32,still,23,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:32,still,,0
+2025-10-24T06:33,6,33,still,24,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:33,still,,0
+2025-10-24T06:34,6,34,still,25,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:34,still,,0
+2025-10-24T06:35,6,35,still,26,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:35,still,,0
+2025-10-24T06:36,6,36,still,27,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:36,still,,0
+2025-10-24T06:37,6,37,still,28,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:37,still,,0
+2025-10-24T06:38,6,38,still,29,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:38,still,,0
+2025-10-24T06:39,6,39,still,30,1,1,1,1,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 06:39,still,,0
+2025-10-24T06:40,6,40,still,31,1,1,1,1,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 06:40,still,,0
+2025-10-24T05:00,5,0,still,1,0,0,1,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 05:00,still,,0
+2025-10-24T05:01,5,1,still,2,0,0,1,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 05:01,still,,0
+2025-10-24T05:02,5,2,still,3,0,0,1,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 05:02,still,,0
+2025-10-24T05:03,5,3,still,4,0,0,1,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 05:03,still,,0
+2025-10-24T05:04,5,4,still,5,0,0,1,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 05:04,still,,0
+2025-10-24T05:05,5,5,still,6,0,0,1,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 05:05,still,,0
+2025-10-24T05:06,5,6,still,7,0,0,1,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 05:06,still,,0
+2025-10-24T05:07,5,7,still,8,0,0,1,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 05:07,still,,0
+2025-10-24T05:08,5,8,still,9,0,0,1,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 05:08,still,,0
+2025-10-24T05:09,5,9,still,10,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:09,still,,0
+2025-10-24T05:10,5,10,still,11,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:10,still,,0
+2025-10-24T05:11,5,11,still,12,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:11,still,,0
+2025-10-24T05:12,5,12,still,13,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:12,still,,0
+2025-10-24T05:13,5,13,still,14,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:13,still,,0
+2025-10-24T05:14,5,14,still,15,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:14,still,,0
+2025-10-24T05:15,5,15,still,16,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:15,still,,0
+2025-10-24T05:16,5,16,still,17,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:16,still,,0
+2025-10-24T05:17,5,17,still,18,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:17,still,,0
+2025-10-24T05:18,5,18,still,19,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:18,still,,0
+2025-10-24T05:19,5,19,still,20,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:19,still,,0
+2025-10-24T05:20,5,20,still,21,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:20,still,,0
+2025-10-24T05:21,5,21,still,22,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:21,still,,0
+2025-10-24T05:22,5,22,still,23,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:22,still,,0
+2025-10-24T05:23,5,23,still,24,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:23,still,,0
+2025-10-24T05:24,5,24,still,25,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:24,still,,0
+2025-10-24T05:25,5,25,still,26,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:25,still,,0
+2025-10-24T05:26,5,26,still,27,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:26,still,,0
+2025-10-24T05:27,5,27,still,28,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:27,still,,0
+2025-10-24T05:28,5,28,still,29,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:28,still,,0
+2025-10-24T05:29,5,29,still,30,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:29,still,,0
+2025-10-24T05:30,5,30,still,31,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:30,still,,0
+2025-10-24T05:31,5,31,still,32,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:31,still,,0
+2025-10-24T05:32,5,32,still,33,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:32,still,,0
+2025-10-24T05:33,5,33,still,34,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:33,still,,0
+2025-10-24T05:34,5,34,still,35,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:34,still,,0
+2025-10-24T06:10,6,10,still,1,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:10,still,,0
+2025-10-24T06:11,6,11,still,2,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:11,still,,0
+2025-10-24T06:12,6,12,still,3,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:12,still,,0
+2025-10-24T06:13,6,13,still,4,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:13,still,,0
+2025-10-24T06:14,6,14,still,5,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:14,still,,0
+2025-10-24T06:15,6,15,still,6,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:15,still,,0
+2025-10-24T06:16,6,16,still,7,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:16,still,,0
+2025-10-24T06:17,6,17,still,8,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:17,still,,0
+2025-10-24T06:18,6,18,still,9,0,0,1,1,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 06:18,still,,0
+2025-10-24T06:19,6,19,still,10,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:19,still,,0
+2025-10-24T06:20,6,20,still,11,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:20,still,,0
+2025-10-24T06:21,6,21,still,12,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:21,still,,0
+2025-10-24T06:22,6,22,still,13,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:22,still,,0
+2025-10-24T06:23,6,23,still,14,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:23,still,,0
+2025-10-24T06:24,6,24,still,15,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:24,still,,0
+2025-10-24T06:25,6,25,still,16,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:25,still,,0
+2025-10-24T06:26,6,26,still,17,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:26,still,,0
+2025-10-24T06:27,6,27,still,18,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:27,still,,0
+2025-10-24T06:28,6,28,still,19,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:28,still,,0
+2025-10-24T06:29,6,29,still,20,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:29,still,,0
+2025-10-24T06:30,6,30,still,21,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:30,still,,0
+2025-10-24T06:31,6,31,still,22,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:31,still,,0
+2025-10-24T06:32,6,32,still,23,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:32,still,,0
+2025-10-24T06:33,6,33,still,24,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:33,still,,0
+2025-10-24T06:34,6,34,still,25,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:34,still,,0
+2025-10-24T06:35,6,35,still,26,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:35,still,,0
+2025-10-24T06:36,6,36,still,27,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:36,still,,0
+2025-10-24T06:37,6,37,still,28,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:37,still,,0
+2025-10-24T06:38,6,38,still,29,1,0,1,1,1,Q10&M6,🔔 ALARMA — Quietud ≥ 10 min después de las 6:00
+2025-10-24 06:38,still,,0
+2025-10-24T06:39,6,39,still,30,1,1,1,1,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 06:39,still,,0
+2025-10-24T06:40,6,40,still,31,1,1,1,1,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 06:40,still,,0
+2025-10-24T03:50,3,50,still,1,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:50,still,1,0
+2025-10-24T03:51,3,51,still,2,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:51,still,2,0
+2025-10-24T03:52,3,52,still,3,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:52,still,3,0
+2025-10-24T03:53,3,53,still,4,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:53,still,4,0
+2025-10-24T03:54,3,54,still,5,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:54,still,5,0
+2025-10-24T03:55,3,55,still,6,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:55,still,6,0
+2025-10-24T03:56,3,56,still,7,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:56,still,7,0
+2025-10-24T03:57,3,57,still,8,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:57,still,8,0
+2025-10-24T03:58,3,58,still,9,0,0,0,0,0,-,✅ Todo normal — Sin quietud suficiente o hubo movimiento
+2025-10-24 03:58,still,9,0
+2025-10-24T03:59,3,59,still,10,1,0,0,0,1,Q10&~M4,🔔 ALARMA — Quietud ≥ 10 min antes de las 4:00
+2025-10-24 03:59,still,10,1
+2025-10-24T04:00,4,0,still,11,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 04:00,still,11,0
+2025-10-24T04:01,4,1,still,12,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 04:01,still,12,0
+2025-10-24T05:00,5,0,still,13,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:00,still,13,0
+2025-10-24T05:01,5,1,still,14,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:01,still,14,0
+2025-10-24T05:02,5,2,still,15,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:02,still,15,0
+2025-10-24T05:03,5,3,still,16,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:03,still,16,0
+2025-10-24T05:04,5,4,still,17,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:04,still,17,0
+2025-10-24T05:05,5,5,still,18,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:05,still,18,0
+2025-10-24T05:06,5,6,still,19,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:06,still,19,0
+2025-10-24T05:07,5,7,still,20,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:07,still,20,0
+2025-10-24T05:08,5,8,still,21,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:08,still,21,0
+2025-10-24T05:09,5,9,still,22,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:09,still,22,0
+2025-10-24T05:10,5,10,still,23,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:10,still,23,0
+2025-10-24T05:11,5,11,still,24,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:11,still,24,0
+2025-10-24T05:12,5,12,still,25,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:12,still,25,0
+2025-10-24T05:13,5,13,still,26,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:13,still,26,0
+2025-10-24T05:14,5,14,still,27,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:14,still,27,0
+2025-10-24T05:15,5,15,still,28,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:15,still,28,0
+2025-10-24T05:16,5,16,still,29,1,0,1,0,0,-,⏳ TOLERANCIA — Entre 4:00 y 6:00; se deja dormir un poco
+2025-10-24 05:16,still,29,0
+2025-10-24T05:17,5,17,still,30,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:17,still,30,1
+2025-10-24T05:18,5,18,still,31,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:18,still,31,1
+2025-10-24T05:19,5,19,still,32,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:19,still,32,1
+2025-10-24T05:20,5,20,still,33,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:20,still,33,1
+2025-10-24T05:21,5,21,still,34,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:21,still,34,1
+2025-10-24T05:22,5,22,still,35,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:22,still,35,1
+2025-10-24T05:23,5,23,still,36,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:23,still,36,1
+2025-10-24T05:24,5,24,still,37,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:24,still,37,1
+2025-10-24T05:25,5,25,still,38,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:25,still,38,1
+2025-10-24T05:26,5,26,still,39,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:26,still,39,1
+2025-10-24T05:27,5,27,still,40,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:27,still,40,1
+2025-10-24T05:28,5,28,still,41,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:28,still,41,1
+2025-10-24T05:29,5,29,still,42,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:29,still,42,1
+2025-10-24T05:30,5,30,still,43,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:30,still,43,1
+2025-10-24T05:31,5,31,still,44,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:31,still,44,1
+2025-10-24T05:32,5,32,still,45,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:32,still,45,1
+2025-10-24T05:33,5,33,still,46,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:33,still,46,1
+2025-10-24T05:34,5,34,still,47,1,1,1,0,1,Q30,🔔 ALARMA — Quietud ≥ 30 min (se quedó dormido con seguridad)
+2025-10-24 05:34,still,47,1
