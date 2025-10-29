@@ -209,33 +209,96 @@ def _run_keyboard(monitor: Monitor, cfg: Config, csv_path: str) -> int:
         print("Comando no reconocido. Escribí 'salir' para terminar.")
 
 
-def _run_serial(monitor: Monitor, cfg: Config, port: str, baud: int, csv_path: str) -> int:
+def _run_serial(monitor, cfg, port: str, baud: int, csv_path: str) -> int:
     print(f"Leyendo del puerto serie {port} @ {baud}...")
-    print("Formato: 'still' | 'move' | 'still HH:MM' | 'move HH:MM'")
+    print("Formato esperado desde Arduino: 'still' | 'move' (opcional 'HH:MM')")
+
+    ser = None
+    use_pyserial = False
     try:
-        # uso simple sin pyserial
+        import serial  # pyserial
+        ser = serial.Serial(port=port, baudrate=baud, timeout=1)
+        use_pyserial = True
+        print("# pyserial activo (RX/TX habilitados)")
+    except Exception:
+        print("# pyserial no disponible; intento fallback solo-lectura...")
+
+    if use_pyserial and ser is not None:
+        # Modo con RX/TX
+        from datetime import datetime, timedelta
+        current_dt = datetime.now().replace(second=0, microsecond=0)
+
+        try:
+            while True:
+                line = ser.readline().decode("utf-8", errors="replace").strip()
+                if not line:
+                    continue
+                parts = line.split()
+                ev = parts[0]
+                if ev not in ("still", "move"):
+                    # mensajes de status "# ..." desde Arduino
+                    print(line)
+                    continue
+
+                # hora opcional
+                if len(parts) >= 2:
+                    try:
+                        hh, mm = parts[1].split(":")
+                        current_dt = current_dt.replace(
+                            hour=int(hh), minute=int(mm))
+                    except Exception:
+                        pass
+
+                is_still = (ev == "still")
+                res = monitor.tick(is_still=is_still, dt=current_dt)
+                _print_tick(res, current_dt, ev)
+                _append_csv(cfg, res, current_dt, ev, csv_path)
+                current_dt += timedelta(minutes=1)
+
+                # === NUEVO: enviar estado de alarma al Arduino ===
+                alarm_on = _bool_from_result(res, "alarm", False)
+                try:
+                    ser.write(b"ALARM_ON\n" if alarm_on else b"ALARM_OFF\n")
+                except Exception:
+                    pass
+        except KeyboardInterrupt:
+            print("\nCerrando puerto...")
+        finally:
+            try:
+                ser.close()
+            except Exception:
+                pass
+        return 0
+
+    # Fallback: abrir como archivo de solo-lectura (Windows puede permitirlo en algunos casos)
+    try:
         f = open(port, "r", encoding="utf-8", errors="replace")
     except Exception as exc:
         print(
-            f"No pude abrir {port}. Si preferís, instalá 'pyserial' y adaptamos la CLI.")
+            f"No pude abrir {port}. Instalá 'pyserial' para soporte completo (RX/TX).")
         return 2
 
+    from datetime import datetime, timedelta
+    current_dt = datetime.now().replace(second=0, microsecond=0)
     with f:
-        current_dt = datetime.now().replace(second=0, microsecond=0)
         for raw in f:
             raw = raw.strip()
             if not raw:
                 continue
             parts = raw.split()
             if parts[0] not in ("still", "move"):
+                print(raw)
                 continue
             ev = parts[0]
             if len(parts) >= 2:
                 try:
-                    current_dt = _parse_hhmm(parts[1])
+                    hh, mm = parts[1].split(":")
+                    current_dt = current_dt.replace(
+                        hour=int(hh), minute=int(mm))
                 except Exception:
                     pass
-            is_still = ev == "still"
+
+            is_still = (ev == "still")
             res = monitor.tick(is_still=is_still, dt=current_dt)
             _print_tick(res, current_dt, ev)
             _append_csv(cfg, res, current_dt, ev, csv_path)
